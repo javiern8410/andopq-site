@@ -1,0 +1,16 @@
+.logo {
+    color: #ffffff;
+    height: 60px;
+    margin-left: 40px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+
+    span {
+        display: block;
+    }
+
+    img {
+        float: left;
+    }
+}
